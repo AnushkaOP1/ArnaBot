@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['919339550704'] //ur owner number
-global.ownername = "Arnab Indeed 🗿" //ur owner name
+global.ownername = "Arnab Indeed🗿" //ur owner name
 global.socialm = "Instagram: mein.arnab.hoon" //ur github or insta name
 global.location = "India, West Bengal, Durgapur" //ur location
 
@@ -66,7 +66,7 @@ global.botname = 'Arnab Indeed V4' //ur bot name
 global.linkz = "https://instagram.com/mein.arnab.hoon" //your theme url which will be displayed on whatsapp
 global.reactmoji = "😋" //ur menu react emoji
 global.themeemoji = "🗿" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "Arnab Bot Stickers\n\n\n\n\n\n\n\n\n\n\n" //ur sticker watermark packname
 global.author = "Arnab Indeed 🗿" //ur sticker watermark author
 
 //Bot theme media
